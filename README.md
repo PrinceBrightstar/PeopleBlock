@@ -1,47 +1,15 @@
 WARNING: THIS FORK OF SPONSORBLOCK IS COMPLETELY UNDEVELOPED WITH NOTHING WORKING. I MAY NOT START WORKING ON IT FOR SOME TIME.
-<p align="center">
-  <a href="https://sponsor.ajay.app"><img src="public/icons/LogoSponsorBlocker256px.png" alt="Logo"></img></a>
-
-  <br/>
-  <sub>Logo by <a href="https://github.com/munadikieh">@munadikieh</a></sub>
-</p>
-
-<h1 align="center">SponsorBlock</h1>
-
-<p align="center">
-  <b>Download:</b>
-  <a href="https://chrome.google.com/webstore/detail/mnjggcdmjocbbbhaepdhchncahnbgone">Chrome/Chromium</a> |
-  <a href="https://addons.mozilla.org/addon/sponsorblock/?src=external-github">Firefox</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Android">Android</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Edge">Edge</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Safari">Safari for MacOS and iOS</a> |
-  <a href="https://sponsor.ajay.app">Website</a> |
-  <a href="https://sponsor.ajay.app/stats">Stats</a>
-</p>
-
-<p align="center">
-  <b>3rd-Party Ports:</b>
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#mpv-media-player">MPV</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#kodi">Kodi</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#Chromecast">Chromecast</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#ios">iOS</a>
-</p>
-
-<p align="center">
-    <a href="https://addons.mozilla.org/addon/sponsorblock/?src=external-github"><img src="https://img.shields.io/amo/users/sponsorblock?label=Firefox%20Users" alt="Badge"></img></a>
-    <a href="https://chrome.google.com/webstore/detail/mnjggcdmjocbbbhaepdhchncahnbgone"><img src="https://img.shields.io/chrome-web-store/users/mnjggcdmjocbbbhaepdhchncahnbgone?label=Chrome%20Users" alt="Badge"></img></a>
-    <a href="https://sponsor.ajay.app/stats"><img src="https://img.shields.io/badge/dynamic/json?label=Submissions&query=totalSubmissions&suffix=%20segments&url=http%3A%2F%2Fsponsor.ajay.app%2Fapi%2FgetTotalStats&color=darkred" alt="Badge"></img></a>
-    <a href="https://sponsor.ajay.app/stats"><img src="https://img.shields.io/badge/dynamic/json?label=Active%20Users&query=apiUsers&url=http%3A%2F%2Fsponsor.ajay.app%2Fapi%2FgetTotalStats&color=darkblue" alt="Badge"></img></a>
-    <a href="https://sponsor.ajay.app/stats"><img src="https://img.shields.io/badge/dynamic/json?label=Time%20Saved%20From%20Skips&query=daysSaved&url=http%3A%2F%2Fsponsor.ajay.app%2Fapi%2FgetDaysSavedFormatted&color=darkgreen&suffix=%20days" alt="Badge"></img></a>
-</p>
 
 
 
-SponsorBlock is an open-source crowdsourced browser extension to skip sponsor segments in YouTube videos. Users submit when a sponsor happens from the extension, and the extension automatically skips sponsors it knows about. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
 
-It also supports Invidious.
+PeopleBlock is an open-source crowdsourced browser extension to skip segments featuring specific people in YouTube videos. Users submit when a person is the main or one of the main focuses from the extension, and the extension automatically skips it. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
 
-**Translate:** [![Crowdin](https://badges.crowdin.net/sponsorblock/localized.svg)](https://crowdin.com/project/sponsorblock)
+I have no idea what this is???? ((It also supports Invidious.))
+
+ALL TEXT/LINKS/IMAGES BELOW THIS POINT ARE FROM THE ORIGINAL SPONSORBLOCK DESCRIPTION AND DO NOT REFLECT PEOPLEBLOCK.
+
+
 
 # Important Links
 
