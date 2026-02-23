@@ -1,9 +1,9 @@
 WARNING: THIS FORK OF SPONSORBLOCK IS COMPLETELY UNDEVELOPED WITH NOTHING WORKING. I MAY NOT START WORKING ON IT FOR SOME TIME.
+We are not affiliated with Sponsorblock in any way. We simply forked their project.
 
 
 
-
-PeopleBlock is an open-source crowdsourced browser extension built upon the base work done by Sponsorblock to skip segments featuring specific people in YouTube videos. We are not affiliated with Sponsorblock in any way. We simply forked their project. Users submit when a person is the main or one of the main focuses from the extension, and the extension automatically skips it. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
+PeopleBlock is an open-source crowdsourced browser extension built upon the base work done by Sponsorblock to skip segments featuring specific people in YouTube videos.  Users submit when a person is the main or one of the main focuses from the extension, and the extension automatically skips it. 
 
 I have no idea what this is???? ((It also supports Invidious.))
 
