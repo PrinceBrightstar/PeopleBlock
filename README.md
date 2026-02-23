@@ -1,3 +1,4 @@
+WARNING: THIS FORK OF SPONSORBLOCK IS COMPLETELY UNDEVELOPED WITH NOTHING WORKING. I MAY NOT START WORKING ON IT FOR SOME TIME.
 <p align="center">
   <a href="https://sponsor.ajay.app"><img src="public/icons/LogoSponsorBlocker256px.png" alt="Logo"></img></a>
 
